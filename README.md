@@ -1,6 +1,6 @@
 # JLU Daily Reporter
 
-__**警告：当前版本是根据一次抓取数据写成的，尚在等待测试，极有可能工作不正常。**__
+
 
 本项目基于TechCiel/jlu-health-reporter[链接](https://github.com/TechCiel/jlu-health-reporter)进行少量修改
 

@@ -35,7 +35,8 @@ __**如运行本程序，您理解并认可，本自动程序的一切操作均�
 			"username": "zhangsan2120",
 			"password": "password",
 			"fields": {
-				"fieldSQxq": "1",//校区号
+				
+				"fieldSQxq": "1",//校区号（自行f12 查找 不详细写了
 				"fieldSQgyl": "1",//公寓号
 				"fieldSQqsh": "1088"//寝室号
 			}

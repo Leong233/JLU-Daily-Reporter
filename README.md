@@ -73,6 +73,12 @@ Crontab 模式：
 ./jlu-daily-reporter.py
 ```
 
+## 免责声明
+
+期末结束后可能会写一个web端自动生成json
+
+**敬请期待**
+
 ## 联系
 
 欢迎开 issue / pr ，随缘处理。

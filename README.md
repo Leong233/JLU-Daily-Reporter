@@ -66,8 +66,8 @@ Crontab 模式：
 //可能需要将` jlu-daily-reporter.py `中的CONFIG更改为绝对路径
 
 ```
-5 7,11,17,21 * * * /usr/bin/python3 /path/to/jlu-daily-reporter.py >> reporter.log 2>&1
-# 5分开始避免服务器时间略有偏差导致失败
+10 7,11,17,21 * * * /usr/bin/python3 /path/to/jlu-daily-reporter.py >> reporter.log 2>&1
+# 10分开始避免服务器时间略有偏差导致失败,以及服务器高峰期
 ```
 
 手动模式（请在时段内启动）：

@@ -42,7 +42,11 @@ __**如运行本程序，您理解并认可，本自动程序的一切操作均�
 				
 				"fieldSQxq": "1",//校区号（要填写的内容请自行f12查找不详细写了
 				"fieldSQgyl": "1",//公寓号
-				"fieldSQqsh": "1088"//寝室号
+				"fieldSQqsh": "1088",//寝室号
+				"fieldSQnj": "2118",//学号前四位
+				"fieldSQnj_Name": "2018",//入学年份
+				"fieldSQbj": "881",//班级id需要自行抓包
+				"fieldSQbj_Name": "211827"//班级名称严格按照学号前四位+班级的形式
 			}
 		},
 		{
@@ -51,7 +55,11 @@ __**如运行本程序，您理解并认可，本自动程序的一切操作均�
 			"fields": {
 				"fieldSQxq": "1",
 				"fieldSQgyl": "1",
-				"fieldSQqsh": "1088"
+				"fieldSQqsh": "1088",
+				"fieldSQnj": "2118",
+				"fieldSQnj_Name": "2018",
+				"fieldSQbj": "881",
+				"fieldSQbj_Name": "211827"
 			}
 		}
 	]
